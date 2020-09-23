@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/react-physics/static/js/main.accc9893.chunk.js",
+    "main.js.map": "/react-physics/static/js/main.accc9893.chunk.js.map",
+    "runtime-main.js": "/react-physics/static/js/runtime-main.f28065ac.js",
+    "runtime-main.js.map": "/react-physics/static/js/runtime-main.f28065ac.js.map",
+    "static/css/2.d7778285.chunk.css": "/react-physics/static/css/2.d7778285.chunk.css",
+    "static/js/2.8c10892b.chunk.js": "/react-physics/static/js/2.8c10892b.chunk.js",
+    "static/js/2.8c10892b.chunk.js.map": "/react-physics/static/js/2.8c10892b.chunk.js.map",
+    "index.html": "/react-physics/index.html",
+    "precache-manifest.e47582b4d42a7bfdd1673cc6756ccebb.js": "/react-physics/precache-manifest.e47582b4d42a7bfdd1673cc6756ccebb.js",
+    "service-worker.js": "/react-physics/service-worker.js",
+    "static/css/2.d7778285.chunk.css.map": "/react-physics/static/css/2.d7778285.chunk.css.map",
+    "static/js/2.8c10892b.chunk.js.LICENSE.txt": "/react-physics/static/js/2.8c10892b.chunk.js.LICENSE.txt",
+    "static/media/katex.css": "/react-physics/static/media/KaTeX_Typewriter-Regular.641339e2.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f28065ac.js",
+    "static/css/2.d7778285.chunk.css",
+    "static/js/2.8c10892b.chunk.js",
+    "static/js/main.accc9893.chunk.js"
+  ]
+}
